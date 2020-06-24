@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview | Demetris Athienitis</title>
-    <link>/courses/copyofsta6166/</link>
-      <atom:link href="/courses/copyofsta6166/index.xml" rel="self" type="application/rss+xml" />
+    <link>/courses/sta4504/</link>
+      <atom:link href="/courses/sta4504/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Overview</title>
-      <link>/courses/copyofsta6166/</link>
+      <link>/courses/sta4504/</link>
     </image>
     
   </channel>
